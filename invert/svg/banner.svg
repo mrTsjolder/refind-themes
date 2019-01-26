@@ -1,0 +1,10 @@
+<svg viewBox="0 0 200 50" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text {
+      font-family: Comfortaa;
+      font-size: 25px;
+    }
+  </style>
+  <rect width="200" height="50" fill="black"/>
+  <text x="21.2" y="33.07" fill="white">btw i use ___</text>
+</svg>
