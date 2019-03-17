@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-  <line style="fill: none; stroke: rgb(221, 221, 221); stroke-width: 3px; stroke-linecap: square; stroke-miterlimit: 3;" x1="38" y1="88.6" x2="62" y2="88.6"/>
+  <style>
+    line {
+      stroke: #808080; /* middle gray */
+      stroke-linecap: square;
+      stroke-width: 3.5px;
+    }
+  </style>
+  <line x1="38" y1="94.5" x2="62" y2="94.5"/>
 </svg>
