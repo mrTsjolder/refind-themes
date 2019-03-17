@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
     <symbol id="part">
       <g fill="black">
@@ -8,10 +8,10 @@
       </g>
     </symbol>
   </defs>
-  <circle r="50" cx="64" cy="64" fill="white"/>
+  <circle r="30.88" cx="49.98" cy="49.98" fill="white"/>
   <g>
-    <use transform="matrix(1, 0, 0, 1, 14, 14)" xlink:href="#part"/>
-    <use transform="matrix(-0.5, 0.866026, -0.866026, -0.5, 132.30127, 45.69873)" xlink:href="#part"/>
-    <use transform="matrix(-0.5, -0.866026, 0.866026, -0.5, 45.69873, 132.30127)" xlink:href="#part"/>
+    <use transform="matrix(0.617914, 0, 0, 0.617914, 19.1, 19.1)" xlink:href="#part"/>
+    <use transform="matrix(-0.308958, 0.535128, -0.535128, -0.308958, 92.199997, 38.687084)" xlink:href="#part"/>
+    <use transform="matrix(-0.308958, -0.535128, 0.535128, -0.308958, 38.687084, 92.199997)" xlink:href="#part"/>
   </g>
 </svg>

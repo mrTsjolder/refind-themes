@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
   <g fill="white">
-    <polygon points="14 14 14 114 42.13 114 42.13 42.13 78.06 42.13 78.06 14"/>
-    <rect x="49.94" y="49.94" width="28.13" height="64.06"/>
-    <rect x="85.88" width="28.13" height="100" y="14"/>
+    <polygon points="19.1 19.1 19.1 80.89 36.48 80.89 36.48 36.48 58.69 36.48 58.69 19.1"/>
+    <rect x="41.31" y="41.31" width="17.38" height="39.59"/>
+    <rect x="63.52" width="17.38" height="61.79" y="19.1"/>
   </g>
 </svg>
